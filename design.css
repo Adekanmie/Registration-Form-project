@@ -61,4 +61,7 @@
             height: auto;
             border-radius: 5px;
         }
+        img{
+            border-color: black;
+        }
     
